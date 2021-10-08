@@ -16,6 +16,8 @@
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 </div>
   
+ ##
+ 
   <div> 
   <a href="https://www.linkedin.com/in/davi-ferreira-da-silva-8561b6125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /a>
   <a href="https://www.instagram.com/davi98_ferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
