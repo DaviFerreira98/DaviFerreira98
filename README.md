@@ -14,8 +14,6 @@
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
- 
-  <img align="right" alt="Milton-gif" height="120" width="150" src="https://tenor.com/view/hello-hey-hi-kitty-gif-12062520.gif">
 </div>
   
   <div> 
