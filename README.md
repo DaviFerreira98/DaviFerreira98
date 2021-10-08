@@ -23,4 +23,6 @@
   <a href="https://www.instagram.com/davi98_ferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
+   
+   ![Snake animation](https://github.com/Milton-Viegas/Milton-Viegas/blob/output/github-contribution-grid-snake.svg)
   
