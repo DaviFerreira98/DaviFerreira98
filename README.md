@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Davi Ferreira
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java/HTML/CSS/JavaScrypt
 - 😄 Pronouns: Ele/Dele
 
 
